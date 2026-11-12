@@ -15,7 +15,6 @@ Electrical & Computer Engineering student at **King Abdulaziz University** (Jedd
 |---|---|---|
 | [**MATE-ROV**](https://github.com/Abdullah-BS/MATE-ROV) | 6-DOF underwater ROV with 8 thrusters, AI object detection and a 3D-printed arm | ArduSub · BlueOS · Pixhawk · Raspberry Pi · MAVLink |
 | [**Autonomous Solar Vehicle**](https://github.com/Abdullah-BS/Autonomous-Solar-Vehicle) | Solar-powered autonomous cart with LiDAR mapping, Nav2 path planning, emergency braking and YOLO detection | ROS 2 · Nav2 · MAVROS · LiDAR · YOLO |
-| [**TIA Portal Assistant**](https://github.com/Abdullah-BS/TIA-MCP-Server) | Desktop app plus MCP server that lets an AI read, document and edit Siemens TIA Portal projects | C# · TIA Openness · MCP · WinCC Unified |
 | [**Masar**](https://github.com/Abdullah-BS/Masar) | Smart evacuation guidance: portable LED screens that reroute people around a fire to the safe assembly point | IoT · Web |
 | [**Stock Market Simulator**](https://github.com/Abdullah-BS/EE364-Stock-Market-Simulator) | Simulator comparing trader strategies, built around OOP design | Java |
 | [**Certificate Generator**](https://github.com/Abdullah-BS/Certificate-Generator-ECEC) | Batch-generates Arabic and English certificates from an Excel sheet | Python |
@@ -26,9 +25,9 @@ More: [Robotics Summer Training 2023](https://github.com/Abdullah-BS/Robotics-Su
 
 ### 🧰 Tools & skills
 
-**Automation:** Siemens TIA Portal · S7 PLCs (SCL, LAD) · WinCC Unified HMI · PROFINET
-**Robotics:** ROS 2 · ArduPilot / ArduSub · Pixhawk · MAVLink · Computer vision (YOLO)
-**Hardware:** PCB design (EasyEDA) · Arduino · ESP32 · Raspberry Pi
-**Software:** Python · C# · Java · SQL · HTML / CSS / JavaScript
+- **Automation:** Siemens TIA Portal · S7 PLCs (SCL, LAD) · WinCC Unified HMI · PROFINET
+- **Robotics:** ROS 2 · ArduPilot / ArduSub · Pixhawk · MAVLink · Computer vision (YOLO)
+- **Hardware:** PCB design (EasyEDA) · Arduino · ESP32 · Raspberry Pi
+- **Software:** Python · C# · Java · SQL · HTML / CSS / JavaScript
 
 🌐 Arabic & English
